@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @npthinhdev
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning Python and Golang
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me [npthinh1996@gmail.com](mailto:npthinh1996@gmail.com)
