@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thinhcode
+- 👋 Hi, I’m @thinh9e
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Python, Go, and Rust
 - 💞️ I’m looking to collaborate on ...
